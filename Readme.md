@@ -2,10 +2,10 @@
 
 ## Anggota Kelompok
 
-**Dionysius Diaz Damar Wilansa** / 235314023
+<span style="color:royalblue"><b>Dionysius Diaz Damar Wilansa</b></span> / 235314023
 <br>
-**Agustinus Kevin Yudipratama** / 235314029
+<span style="color:seagreen"><b>Agustinus Kevin Yudipratama</b></span> / 235314029
 <br>
-**Andreas Avelino** / 235314014
+<span style="color:orangered"><b>Andreas Avelino</b></span> / 235314014
 <br>
-**Mikael** / 235314036
+<span style="color:darkviolet"><b>Mikael</b></span> / 235314036
