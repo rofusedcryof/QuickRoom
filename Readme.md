@@ -10,11 +10,11 @@
 ## Anggota Kelompok
 
 1.  **Dionysius Diaz Damar Wilansa** / 235314023
-  <br>
+  
 2.  **Agustinus Kevin Yudipratama** / 235314029
-  <br>
+  
 3.  **Andreas Avelino** / 235314014
-  <br>
+  
 4.  **Mikael** / 235314036
 
 ## Cara Menjalankan Proyek
